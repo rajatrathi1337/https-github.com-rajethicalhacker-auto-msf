@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from os import system
 print """
 [+] Made by R4J
