@@ -23,10 +23,10 @@ print """ \033[92m
                                     [2] AutoCrack Android
                                     [3] AutoCrack Website
                                     [4] AutoCrack Linux
-                                    [5] About Developer
+                                    
                                     [6] Exit From Script
 """
-a = raw_input("\033[94m                                    Chose an option : ")
+a = raw_input("\033[94m                                    Choose an option : ")
 
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
